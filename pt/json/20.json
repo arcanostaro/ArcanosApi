@@ -1,12 +1,12 @@
 {
   "card_result": [
     {
-      "card_id": ,
-      "card_name": " ",
-      "card_revelation": " ",     
+      "card_id": 20,
+      "card_name": "O Juízo Final",
+      "card_revelation": "Eu já disse que este símbolo é essencialmente invariável em todos os baralhos de Tarô, ou que, pelo menos, as variações não lhe afetam o caráter. O grande anjo está aqui rodeado por nuvens, mas toca a trombeta embandeirada, e a cruz, como de hábito, aparece na bandeira. Os mortos levantam-se dos túmulos: uma mulher à direita, um homem à esquerda e entre eles seu filho, que está de costas. Nesta carta, porém, há mais do que os três que foram restaurados, e achou-se que valia a pena fazer essa variação para mostrar a insuficiência das explicações habituais. Deve-se notar que todas as figuras expressam em sua atitude assombro, adoração e êxtase. É a carta que registra a consecução do grande trabalho de transformação em resposta aos apelos do Supremo, apelos ouvidos e respondidos no íntimo. Há nisso a sugestão de uma significação que não pode ser levada além presentemente. O que é que dentro de nós faz soar uma trombeta e tudo que há de inferior em nossa natureza se ergue em resposta, quase em um momento, quase em um piscar de olhos? Deixemos que a carta continue a significar, para aqueles que não podem ver além, o Juízo Final e a ressurreição do corpo natural; mas deixemos aqueles que têm olhos para o interior olharem e descobrirem o que ali se contém. Eles compreenderão que ela foi com razão no passado chamada a carta da vida eterna, e por esse motivo, pode ser comparada com aquela apresentada sob o nome de Temperança.",     
       "card_divination_meaning": " ",
       "card_divination_opposite": " ", 
-      "card_image_path": "/pt/cards/ .png"
+      "card_image_path": "/pt/cards/20.png"
     }
   ]
 }
