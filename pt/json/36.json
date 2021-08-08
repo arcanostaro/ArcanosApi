@@ -1,0 +1,12 @@
+{
+  "card_result": [
+    {
+      "card_id": 36,
+      "card_name": "Ás de Ouros",
+      "card_revelation": "A mão — saindo, como de costume, de uma nuvem — segura um pentáculo. Mostra prosperidade, condições materiais confortáveis, mas depende de estar a carta invertida ou não saber se tais condições trazem vantagem para o possui-dor. Tais são os significados dos Arcanos Menores no que diz respeito à arte divinatória, cuja natureza verídica depende de uma alternativa suscetível de ser expressa em poucas palavras. Os registros da arte são \"ex hypothesi\", ou seja, os registros das descobertas do passado baseadas na experiência; como tais, devem ser um guia para a memória, e aqueles capazes de dominarem os elementos — ainda \"ex hypothesi\" — apresentam interpretações nessa base. E um trabalho oficial e automático. Por outro lado, os que têm o dom da intuição, da profecia, da clarividência — chame-se da maneira que se preferir — suplementarão a experiência do passado com as descobertas e sua própria faculdade, e falarão do que viram nos pretextos dos oráculos. Resta apresentar, também em poucas palavras, a significação divinatória atribuída pela mesma arte aos Trunfos Maiores.",     
+      "card_divination_meaning": "Contentamento perfeito, felicidade, êxtase; também inteligência pronta; ouro.",
+      "card_divination_opposite": "Inteligência deficiente, o lado mau da riqueza.", 
+      "card_image_path": "/pt/cards/36.png"
+    }
+  ]
+}

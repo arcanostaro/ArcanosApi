@@ -1,0 +1,12 @@
+{
+  "card_result": [
+    {
+      "card_id": 49,
+      "card_name": "Rei de Ouros",
+      "card_revelation": "A figura exige uma descrição especial: o rosto sugere bastante coragem, mas uma tendência um tanto letárgica. Pode-se notar a cabeça de touro como um símbolo repetido no trono. O signo do naipe é representado como gravado e brasonado com o pentagrama, mostrando a correspondência dos quatro elementos da natureza humana e pela qual podem ser governados. Em muitos baralhos antigos de Tarô, esse naipe corresponde a moeda corrente, dinheiro, deniers. O consenso das significações divinatórias apóia alguma mudança, porque as cartas não parecem dizer respeito especialmente a questões de dinheiro.",     
+      "card_divination_meaning": "Valor, inteligência realizadora, aptidão para os negócios e aptidão intelectual normal, algumas vezes queda para a matemática e sucessos nesse campo.",
+      "card_divination_opposite": "Vício, fraqueza, feiúra, perversidade, corrupção, perigo.", 
+      "card_image_path": "/pt/cards/49.png"
+    }
+  ]
+}

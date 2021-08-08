@@ -1,0 +1,12 @@
+{
+  "card_result": [
+    {
+      "card_id": 47,
+      "card_name": "Cavaleiro de Ouros",
+      "card_revelation": "Está montado em um cavalo robusto, resistente, vagaroso, ao qual corresponde o seu próprio aspecto. Exibe o símbolo, mas não prende-se a ele — tudo no plano normal e exterior.",     
+      "card_divination_meaning": "Utilidade, interesse, prestimosidade, responsabilidade, retidão.",
+      "card_divination_opposite": "Inércia, preguiça, estagnação; também placidez, desencorajamento, descuido.", 
+      "card_image_path": "/pt/cards/47.png"
+    }
+  ]
+}
