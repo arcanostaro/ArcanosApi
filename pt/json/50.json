@@ -2,11 +2,11 @@
   "card_result": [
     {
       "card_id": 50,
-      "card_name": " ",
-      "card_revelation": " ",     
-      "card_divination_meaning": " ",
-      "card_divination_opposite": " ", 
-      "card_image_path": "/pt/cards/ .png"
+      "card_name": "Ás de Espadas",
+      "card_revelation": "A mão que sai das nuvens empunha uma espada, cuja ponta é rodeada por uma coroa. E uma carta de grande força, tanto no amor como no ódio. A coroa pode ter um significado muito mais alto do que tem habitualmente na esfera da leitura da sorte.",     
+      "card_divination_meaning": "Triunfo, o grau excessivo de tudo, conquista, triunfo da força.",
+      "card_divination_opposite": "O mesmo triunfo, mas os resultados são desastrosos; outra interpretação diz: concepção, nascimento, aumento, multiplicidade.", 
+      "card_image_path": "/pt/cards/50.png"
     }
   ]
 }

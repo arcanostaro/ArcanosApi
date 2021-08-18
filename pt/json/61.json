@@ -1,0 +1,12 @@
+{
+  "card_result": [
+    {
+      "card_id": 61,
+      "card_name": "Cavaleiro de Espadas",
+      "card_revelation": "Está montado em um cavalo que galopa, como se perseguisse os seus inimigos. Na figura, é realmente um protótipo do herói da cavalaria romântica. Quase pode ser Galaad, cuja espada é ágil e segura, porque ele é limpo de coração. Há, portanto, um sentido em que a carta significa morte, mas só tem esse significado nas proximidades de cartas de fatalidade.",     
+      "card_divination_meaning": "Habilidade, bravura, capacidade, defesa, comunicação, inimigo, ira, guerra, destruição, oposição, resistência, ruína.",
+      "card_divination_opposite": "Imprudência, incapacidade, extravagância.", 
+      "card_image_path": "/pt/cards/61.png"
+    }
+  ]
+}
